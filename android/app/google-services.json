@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "641936041012",
+    "firebase_url": "https://iotcw-8e94e-default-rtdb.firebaseio.com",
+    "project_id": "iotcw-8e94e",
+    "storage_bucket": "iotcw-8e94e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641936041012:android:bc7ede287d1f5d616c9661",
+        "android_client_info": {
+          "package_name": "com.example.app_cw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArUKKMLDUfkgbsyP7QTR0vRPOMfzZ6CwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
